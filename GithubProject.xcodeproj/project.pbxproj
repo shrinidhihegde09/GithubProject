@@ -16,6 +16,7 @@
 		C9D682A928D858EE008B9E7B /* GithubProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9D682A828D858EE008B9E7B /* GithubProjectTests.swift */; };
 		C9D682B328D858EE008B9E7B /* GithubProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9D682B228D858EE008B9E7B /* GithubProjectUITests.swift */; };
 		C9D682B528D858EE008B9E7B /* GithubProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9D682B428D858EE008B9E7B /* GithubProjectUITestsLaunchTests.swift */; };
+		C9D682C228D877A2008B9E7B /* HelloViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9D682C128D877A2008B9E7B /* HelloViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C9D682AE28D858EE008B9E7B /* GithubProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GithubProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9D682B228D858EE008B9E7B /* GithubProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubProjectUITests.swift; sourceTree = "<group>"; };
 		C9D682B428D858EE008B9E7B /* GithubProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C9D682C128D877A2008B9E7B /* HelloViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				C9D6829128D858EC008B9E7B /* AppDelegate.swift */,
 				C9D6829328D858EC008B9E7B /* SceneDelegate.swift */,
 				C9D6829528D858EC008B9E7B /* ViewController.swift */,
+				C9D682C128D877A2008B9E7B /* HelloViewController.swift */,
 				C9D6829728D858EC008B9E7B /* Main.storyboard */,
 				C9D6829A28D858ED008B9E7B /* Assets.xcassets */,
 				C9D6829C28D858ED008B9E7B /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				C9D6829628D858EC008B9E7B /* ViewController.swift in Sources */,
 				C9D6829228D858EC008B9E7B /* AppDelegate.swift in Sources */,
 				C9D6829428D858EC008B9E7B /* SceneDelegate.swift in Sources */,
+				C9D682C228D877A2008B9E7B /* HelloViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
